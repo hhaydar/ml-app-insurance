@@ -5,5 +5,3 @@ https://hh-insurance.herokuapp.com/
 
 For API Request use:
 api_json_test.py
-
-
