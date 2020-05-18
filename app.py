@@ -16,7 +16,7 @@ def home():
 @app.route('/predict',methods=['POST'])
 def predict():
     int_features = [x for x in request.form.values()]
-    final = np.array(int_features)
+    final = np.array(int_features) 
     data_unseen = pd.DataFrame([final], columns = cols)
     prediction = predict_model(model, data=data_unseen, round = 0)
     prediction = int(prediction.Label[0])
@@ -30,4 +30,5 @@ def predict_api():
     output = prediction.Label[0]
     return jsonify(output)
 
-app.run(debug=False)
+if __name__ == '__main__':
+    app.run(debug=True)
