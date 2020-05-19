@@ -13,9 +13,8 @@ pip install flask
 ```
 
 ## Web Page Usage
-```html
 https://hh-insurance.herokuapp.com/
-```
+
 
 ## API Usage
 
@@ -38,5 +37,21 @@ python api_json_test.py
 ## Contributing
 Pull requests are welcome.
 
+### What's included
+
+Within the download you'll find the following directories and files.
+
+```
+ml-app-insurance/
+├── api_json_test.py
+├── Procfile
+├── README.md
+├── dataset
+│   ├── insurance.csv
+├── templates
+│   ├── home.html
+├── app.py
+├── requirements.txt
+├── insurance_14052020.pkl {model}
+```
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
