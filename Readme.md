@@ -1,10 +1,10 @@
 # App 
 [![Stability](https://img.shields.io/badge/stability-stable-green.svg)](https://img.shields.io/badge/stability-stable-green.svg)
-<!-->
+<!--
 [![Documentation Status](https://readthedocs.org/projects/pip/badge/?version=stable)](http://pip.pypa.io/en/stable/?badge=stable)
 [![PyPI version](https://badge.fury.io/py/pycaret.svg)](https://badge.fury.io/py/pycaret)
 [![License](https://img.shields.io/pypi/l/ansicolortags.svg)](https://img.shields.io/pypi/l/ansicolortags.svg)
-<--> 
+--> 
 [![Git count](http://hits.dwyl.com/hhaydar/ml-app-insurance.svg)](http://hits.dwyl.com/hhaydar/ml-app-insurance)
 
 
