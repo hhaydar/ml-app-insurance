@@ -1,5 +1,5 @@
 # App 
-[![Stability](https://img.shields.io/badge/stability-stable-green.svg)](https://img.shields.io/badge/stability-stable-green.svg) [![Git count](http://hits.dwyl.com/hhaydar/ml-app-insurance.svg)](http://hits.dwyl.com/hhaydar/ml-app-insurance)
+[![Stability](https://img.shields.io/badge/stability-stable-green.svg)](https://img.shields.io/badge/stability-stable-green.svg)[![Git count](http://hits.dwyl.com/hhaydar/ml-app-insurance.svg)](http://hits.dwyl.com/hhaydar/ml-app-insurance)
 
 <!--
 [![Documentation Status](https://readthedocs.org/projects/pip/badge/?version=stable)](http://pip.pypa.io/en/stable/?badge=stable)
